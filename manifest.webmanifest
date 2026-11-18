@@ -1,1 +1,8 @@
-{"name":"DriveCircle Portal Launcher","short_name":"DriveCircle","description":"Service center pickup and drop portals","start_url":"./","display":"standalone","background_color":"#0a1220","theme_color":"#0a1220","icons":[]}
+{
+  "name": "DriveCircle Pickup & Drop",
+  "short_name": "DriveCircle",
+  "start_url": "./?view=driver",
+  "display": "standalone",
+  "background_color": "#090f1b",
+  "theme_color": "#0b1220"
+}
